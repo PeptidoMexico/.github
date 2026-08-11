@@ -17,6 +17,7 @@ software and accessible volume visualization.
 | `peptide-calculations` | Unit-safe reconstitution, concentration, dilution, molarity and conversion calculations with a deterministic CLI. |
 | `syringe-visualizer` | Client-side Three.js visualization of a calculated volume inside a syringe, with an accessible SVG fallback. |
 | `peptide-qc` | Sequence composition, formula, mass, approximate charge/pI and Kyte–Doolittle hydropathy for standard peptide sequences. |
+| `coa-schema` | Versioned JSON Schema and offline validator for structured research-material records. |
 
 The tools are for research-use-only and educational software. They do not provide
 therapeutic dosing, administration instructions, clinical interpretation, batch
