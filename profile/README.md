@@ -9,7 +9,7 @@ software and accessible volume visualization.
 - [Reconstitution calculator](https://peptidomexico.com.mx/calculadora/)
 - [Versioned package documentation](https://peptidomexico-open-science.readthedocs.io/en/latest/)
 - [Release and citation metadata](https://github.com/PeptidoMexico/peptidomexico-open-science/releases)
-- [Archived v0.3.0 release on Zenodo](https://doi.org/10.5281/zenodo.21895595)
+- [Archived v0.4.0 release on Zenodo](https://doi.org/10.5281/zenodo.21895679)
 
 ## Current projects
 
