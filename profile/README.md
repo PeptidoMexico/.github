@@ -7,7 +7,7 @@ software and accessible volume visualization.
 
 - [Open-source package repository](https://github.com/PeptidoMexico/peptidomexico-open-science)
 - [Reconstitution calculator](https://peptidomexico.com.mx/calculadora/)
-- [Versioned package documentation](https://github.com/PeptidoMexico/peptidomexico-open-science/tree/main/docs/open-source)
+- [Versioned package documentation](https://peptidomexico-open-science.readthedocs.io/en/latest/)
 - [Release and citation metadata](https://github.com/PeptidoMexico/peptidomexico-open-science/releases)
 
 ## Current projects
