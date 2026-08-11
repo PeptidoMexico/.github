@@ -20,6 +20,8 @@ software and accessible volume visualization.
 | `peptide-qc` | Sequence composition, formula, mass, approximate charge/pI and Kyte–Doolittle hydropathy for standard peptide sequences. |
 | `coa-schema` | Versioned JSON Schema and offline validator for structured research-material records. |
 | `lcms-peptide-qc` | Positive-mode m/z, charge-state and ppm-error calculations for synthetic LC-MS workflow fixtures. |
+| `peptide-evidence-map` | Deterministic literature-identifier normalization, deduplication and curation provenance without fetching source text. |
+| `repro-lab-kit` | Offline synthetic sequence, reconstitution and LC-MS workflow with a versioned expected summary. |
 
 The tools are for research-use-only and educational software. They do not provide
 therapeutic dosing, administration instructions, clinical interpretation, batch
