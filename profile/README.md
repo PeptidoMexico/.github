@@ -18,6 +18,7 @@ software and accessible volume visualization.
 | `syringe-visualizer` | Client-side Three.js visualization of a calculated volume inside a syringe, with an accessible SVG fallback. |
 | `peptide-qc` | Sequence composition, formula, mass, approximate charge/pI and Kyte–Doolittle hydropathy for standard peptide sequences. |
 | `coa-schema` | Versioned JSON Schema and offline validator for structured research-material records. |
+| `lcms-peptide-qc` | Positive-mode m/z, charge-state and ppm-error calculations for synthetic LC-MS workflow fixtures. |
 
 The tools are for research-use-only and educational software. They do not provide
 therapeutic dosing, administration instructions, clinical interpretation, batch
