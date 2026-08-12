@@ -1,7 +1,11 @@
-# Péptido México Open Science
+# PeptidoMexico Open Science
 
-Open-source tools for reproducible peptide laboratory calculations, scientific
-software and accessible volume visualization.
+**PeptidoMexico** is the canonical brand. **PeptidoMexico Open Science** is its
+public research-software program: open-source tools for reproducible peptide
+laboratory calculations, scientific software and accessible volume visualization.
+
+- [PeptidoMexico](https://peptidomexico.com.mx)
+- [PeptidoMexico organization](https://github.com/PeptidoMexico)
 
 ## Start here
 
@@ -27,7 +31,7 @@ The tools are for research-use-only and educational software. They do not provid
 therapeutic dosing, administration instructions, clinical interpretation, batch
 certification or physical-device calibration.
 
-Péptido México maintains these packages and also operates a commercial supplier of
+PeptidoMexico maintains these packages and also operates a commercial supplier of
 research materials. That relationship is disclosed in each repository and citation
 file. The commercial storefront is not the source of truth for the package APIs.
 
